@@ -3,7 +3,7 @@
 #define USB_POLLING_INTERVAL_MS 1
 #define QMK_KEYS_PER_SCAN 2
 #undef  PRODUCT
-#define PRODUCT         GNAT60
+#define PRODUCT         GNAT60 Najlepsza Klawiatura
 #undef  MANUFACTURER
 #define MANUFACTURER    Dobrzan
 
