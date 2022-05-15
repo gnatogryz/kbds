@@ -6,3 +6,6 @@
 #define PRODUCT         Gnatboard
 #undef  MANUFACTURER
 #define MANUFACTURER    Dobrzan
+
+#define BOOTMAGIC_LITE_ROW 0
+#define BOOTMAGIC_LITE_COLUMN 1
