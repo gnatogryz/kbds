@@ -9,7 +9,5 @@
 #undef  MANUFACTURER
 #define MANUFACTURER    Dobrzan
 
-#define FORCE_NKRO
-
 #define BOOTMAGIC_LITE_ROW 0
 #define BOOTMAGIC_LITE_COLUMN 0

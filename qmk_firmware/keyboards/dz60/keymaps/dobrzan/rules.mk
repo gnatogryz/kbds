@@ -1,4 +1,3 @@
 RGBLIGHT_ENABLE = no
 BOOTMAGIC_ENABLE = yes
 NKRO_ENABLE = yes
-DEBOUNCE_TYPE = sym_eager_pr
