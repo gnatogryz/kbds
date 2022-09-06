@@ -1,8 +1,6 @@
 #pragma once
 
-#define USB_POLLING_INTERVAL_MS 1
-
-#define QMK_KEYS_PER_SCAN 8
+#define QMK_KEYS_PER_SCAN 4
 
 #undef  PRODUCT
 #define PRODUCT         GNAT60 Najlepsza Klawiatura
