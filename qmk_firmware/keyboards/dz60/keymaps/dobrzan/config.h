@@ -12,3 +12,5 @@
 
 #define MOUSEKEY_MOVE_DELTA 4
 #define MOUSEKEY_MAX_SPEED 8
+
+#define DEBOUNCE 10
